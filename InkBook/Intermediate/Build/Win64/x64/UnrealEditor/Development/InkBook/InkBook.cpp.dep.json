@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gamedev\\git_ue_projects\\pj_inkbook\\inkbook\\source\\inkbook\\inkbook.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gamedev\\git_ue_projects\\pj_inkbook\\inkbook\\intermediate\\build\\win64\\x64\\inkbookeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\gamedev\\git_ue_projects\\pj_inkbook\\inkbook\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inkbook\\definitions.inkbook.h",
+            "e:\\gamedev\\git_ue_projects\\pj_inkbook\\inkbook\\source\\inkbook\\inkbook.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
