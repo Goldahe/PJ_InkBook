@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\GameDev\\Git_UE_Projects\\PJ_InkBook\\InkBook\\Source\\InkBook\\InkBook.Build.cs",
-		"E:\\GameDev\\Git_UE_Projects\\PJ_InkBook\\InkBook\\Source\\InkBook.Target.cs",
-		"E:\\GameDev\\Git_UE_Projects\\PJ_InkBook\\InkBook\\Source\\InkBookEditor.Target.cs"
+		"D:\\InkBook\\InkBook\\Source\\InkBook\\InkBook.Build.cs",
+		"D:\\InkBook\\InkBook\\Source\\InkBook.Target.cs",
+		"D:\\InkBook\\InkBook\\Source\\InkBookEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.1"
 }

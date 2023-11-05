@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-InkBook.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\GameDev\Git_UE_Projects\PJ_InkBook\InkBook\Intermediate\Build\Win64\x64\InkBookEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"E:\GameDev\Git_UE_Projects\PJ_InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\InkBook.cpp.obj"
-"E:\GameDev\Git_UE_Projects\PJ_InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\Default.rc2.res"
-/OUT:"E:\GameDev\Git_UE_Projects\PJ_InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\UnrealEditor-InkBook.lib"
+"D:\InkBook\InkBook\Intermediate\Build\Win64\x64\InkBookEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\InkBook.cpp.obj"
+"D:\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\Default.rc2.res"
+/OUT:"D:\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\UnrealEditor-InkBook.lib"
