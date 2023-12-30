@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\InkBook\\InkBook\\Source\\InkBook\\InkBook.Build.cs",
-		"D:\\InkBook\\InkBook\\Source\\InkBook.Target.cs",
-		"D:\\InkBook\\InkBook\\Source\\InkBookEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.1"
-}
