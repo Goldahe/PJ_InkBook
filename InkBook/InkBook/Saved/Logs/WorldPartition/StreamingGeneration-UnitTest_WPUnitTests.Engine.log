@@ -1,0 +1,229 @@
+[+] Containers:
+ |- [+] Container: /Engine/WorldPartition/UnitTests/WPUnitTests
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:9B95BAF248E8D3944F8D12AAA3C63B91 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_E04F43E60BD9427001_1946553051 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D2BE3461494F1223109049858FCAC5FB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_E04F43E60BD9427001_1934604050 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1310.000 Y=1710.000 Z=0.000), Max=(X=-1230.000 Y=1790.000 Z=184.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D9A710984FFE6A0A12742B96670DDA4D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:FBB3E24144AD177875020DA09B2A4D2C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD9427001_1819720048 Label:SM_Template_Map_Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5000.003 Y=-4999.999 Z=-50.000), Max=(X=5000.001 Y=5000.001 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:9B95BAF248E8D3944F8D12AAA3C63B91 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_E04F43E60BD9427001_1946553051 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:D2BE3461494F1223109049858FCAC5FB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_E04F43E60BD9427001_1934604050 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1310.000 Y=1710.000 Z=0.000), Max=(X=-1230.000 Y=1790.000 Z=184.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:D9A710984FFE6A0A12742B96670DDA4D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:FBB3E24144AD177875020DA09B2A4D2C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD9427001_1819720048 Label:SM_Template_Map_Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5000.003 Y=-4999.999 Z=-50.000), Max=(X=5000.001 Y=5000.001 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- [+] Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:57AC84E74C479744FC93558EA2BBCBFE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-628.000 Y=-628.000 Z=-128.000), Max=(X=-372.000 Y=-372.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C22E344A45480EF3C36683BB6E4586E7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=372.000 Y=-628.000 Z=-128.000), Max=(X=628.000 Y=-372.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E9D4BB9F4F480118E488DD9580D758E8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=372.000 Y=372.000 Z=-128.000), Max=(X=628.000 Y=628.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F866909741E0F3490AD6D995CA635BD0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-628.000 Y=372.000 Z=-128.000), Max=(X=-372.000 Y=628.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:57AC84E74C479744FC93558EA2BBCBFE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-628.000 Y=-628.000 Z=-128.000), Max=(X=-372.000 Y=-372.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:C22E344A45480EF3C36683BB6E4586E7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=372.000 Y=-628.000 Z=-128.000), Max=(X=628.000 Y=-372.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:E9D4BB9F4F480118E488DD9580D758E8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=372.000 Y=372.000 Z=-128.000), Max=(X=628.000 Y=628.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:F866909741E0F3490AD6D995CA635BD0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-628.000 Y=372.000 Z=-128.000), Max=(X=-372.000 Y=628.000 Z=128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-5000.003 Y=-4999.999 Z=-50.000), Max=(X=5000.001 Y=5000.001 Z=256.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Engine/WorldPartition/UnitTests/WPUnitTests
+ |- [+] SubContainers:
+ |   |- [+] FourCubes8:
+ |   |   |-        ID: 034926038F38522247F62E77A5A46A55
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=1932.000 Y=-3188.000 Z=0.000), Max=(X=3188.000 Y=-1932.000 Z=256.000)
+ |   |   |- Transform: 2560.000000,-2560.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes:
+ |   |   |-        ID: 0ED19E1DD57201FBDFF704131C607794
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=-628.000 Y=-628.000 Z=0.000), Max=(X=628.000 Y=628.000 Z=256.000)
+ |   |   |- Transform: 0.000000,0.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes2:
+ |   |   |-        ID: 12B0178A744ADB065529EA0461215474
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=1932.000 Y=-628.000 Z=0.000), Max=(X=3188.000 Y=628.000 Z=256.000)
+ |   |   |- Transform: 2560.000000,0.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes3:
+ |   |   |-        ID: 4195EE268DBBB609E41575F14608A425
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=-3188.000 Y=-628.000 Z=0.000), Max=(X=-1932.000 Y=628.000 Z=256.000)
+ |   |   |- Transform: -2560.000000,0.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes9:
+ |   |   |-        ID: 53562F56B1EF8EC74DFBF0F884BBBB73
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=-3188.000 Y=-3188.000 Z=0.000), Max=(X=-1932.000 Y=-1932.000 Z=256.000)
+ |   |   |- Transform: -2560.000000,-2560.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes6:
+ |   |   |-        ID: 98B03ED620D3BCFAB6C3C53D54126357
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=-3188.000 Y=1932.000 Z=0.000), Max=(X=-1932.000 Y=3188.000 Z=256.000)
+ |   |   |- Transform: -2560.000000,2560.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes4:
+ |   |   |-        ID: 9C7A43EC9AA8BCDF2FF0EAC7386E2FEE
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=-628.000 Y=1932.000 Z=0.000), Max=(X=628.000 Y=3188.000 Z=256.000)
+ |   |   |- Transform: 0.000000,2560.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes7:
+ |   |   |-        ID: A308BA902552B7A6C2BC1E0AF687AC68
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=-628.000 Y=-3188.000 Z=0.000), Max=(X=628.000 Y=-1932.000 Z=256.000)
+ |   |   |- Transform: 0.000000,-2560.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+ |   |- [+] FourCubes5:
+ |   |   |-        ID: EBF774F5AAA8E92847A43DFD0F8C737E
+ |   |   |-  ParentID: 00000000000000000000000000000000
+ |   |   |-    Bounds: IsValid=true, Min=(X=1932.000 Y=1932.000 Z=0.000), Max=(X=3188.000 Y=3188.000 Z=256.000)
+ |   |   |- Transform: 2560.000000,2560.000000,128.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |- Container: /Engine/WorldPartition/UnitTests/FourCubes
+----------------------------------------------------------------------------------------------------------------
+WPUnitTests - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 3200
+      World Bounds: IsValid=true, Min=(X=-5000.003 Y=-4999.999 Z=-50.000), Max=(X=5000.001 Y=5000.001 Z=256.000)
+     Loading Range: 3200.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 3
+ |- Level  0: Cell Count    4 | Cell Size    3200 | Actor Count   36 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size    6400 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell WPUnitTests_MainGrid_L0_X-1_Y0 (06TM056GTE5T9CDP8W5MH4QUF)
+ |   |- Actor Count: 9
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: 1D457314B0C7111A03DCDB099BF122F8
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: 3942BC4A1DEECB32F04F0909280EF08A
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: 4D3BA3B9D364656FEE79F8ED7CD47E9B
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: 77FDD44CBC1CEF834E8558EEFFD31D2A
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: 82AFE18805DF4AA7F50770DB54E3EE68
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: B103CEC0D00B2492F48E89FFCB990309
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: C7847334450877DDE7D39B961C6DFF4D
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: CB205D23157FE0CA58E941BEAB63DDAE
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: E5061E86A5BA3A26B175F34BB1DB47F5
+ |- [+] Content of Cell WPUnitTests_MainGrid_L0_X0_Y-1 (4L407D3FNHDCT6HFM0B0R66OV)
+ |   |- Actor Count: 9
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: 3AE1479E46034306BA598DEF721D7309
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: 6017F094A40794F9618271D88EF50651
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: 9F534066744C080CDC043B1F917BB95B
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: ACEAECD6352FA488CEF7D34745EE9F39
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: B476FA0FBBD1BAD902F27A7D68479100
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: BF5A02D01F501E3C1E027245590ED2FB
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: C35EFEF79F014DFA371A467EF5C3A4A2
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: DDD6FA51C93ED7C752E663D28792826F
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: FF4CDEB5073829CAAEEE7B0741742E03
+ |- [+] Content of Cell WPUnitTests_MainGrid_L0_X-1_Y-1 (68O1FC1IOPPLFMSBVVGQ3MTSE)
+ |   |- Actor Count: 9
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: 0C77C163CDB6A9D3664C5116ED34757C
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: 428FF6F4C801E2DC3C46E3536C109299
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: 7E32AAB6A5D3C1CE77D4F9257522AF9F
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: 8585DE8CC5616F401CE97A9DD24733E2
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: 90CF5B440BD5864A215DABAA2F02AAAB
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: A3FF34B42D29458D43D326F10C8859D9
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: B8E6F429FD8B8F71903E31030B26CFB2
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: CA914CC82796B43311DD010A61EDAB4B
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: CAFEFB1ED7E5839BC5A0C50B2451C4B9
+ |- [+] Content of Cell WPUnitTests_MainGrid_L0_X0_Y0 (AVW97YW9TL3F36ZF9PG4AVTL3)
+ |   |- Actor Count: 9
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: 261BA615D5C5C1A640A4D3C1A8EC272D
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: 26BCA249830D86DB31F7F7975998DD44
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: 2AF7D35EC7FF14DDA6FDDC856F3FC7FF
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: C90809735CD231E16FB8EE1968DC8E57
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2000689408
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/C/62/2DJI7NFF8AAXDPLRQJDHKL
+ |   |- Actor Instance Guid: CEF8CE419B08F41CDBAD01C5009CD40D
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: D5B63431A150CCB3FA9DC4D04BA08112
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2145599411
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/9/0R/6AN4TO7TAQDBOA84T8PRDW
+ |   |- Actor Instance Guid: D8EBA3124C096C245B0ABE0CE5398E6C
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2069607409
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/4/CB/1XFTXFFU7EDO0XCXCLZYY9
+ |   |- Actor Instance Guid: DCD0AAA1FA659242B32D75767FC0D4C9
+ |   |-          Actor Path: /Engine/WorldPartition/UnitTests/FourCubes.FourCubes:PersistentLevel.StaticMeshActor_UAID_E04F43E60BD93A5A01_2128445410
+ |   |-       Actor Package: /Engine/__ExternalActors__/WorldPartition/UnitTests/FourCubes/7/FS/92DHQE76IZKR9HMUCOL6BB
+ |   |- Actor Instance Guid: E25CC850CA19A78BA7F4B02DE728D9E8
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+

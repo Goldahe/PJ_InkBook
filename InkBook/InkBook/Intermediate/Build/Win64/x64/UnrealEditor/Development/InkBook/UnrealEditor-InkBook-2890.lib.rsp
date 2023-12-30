@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InkBook-2890.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\InkBookEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\InkBook.init.gen.cpp.obj"
+"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\MainPlayer.gen.cpp.obj"
+"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\InkBook.cpp.obj"
+"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\MainPlayer.cpp.obj"
+"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\Default.rc2.res"
+/OUT:"E:\GameDev\Unreal Projects\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\UnrealEditor-InkBook-2890.lib"

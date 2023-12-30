@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_Dev\\InkBook\\InkBook\\Source\\InkBook\\InkBook.Build.cs",
+		"D:\\UE_Dev\\InkBook\\InkBook\\Source\\InkBook.Target.cs",
+		"D:\\UE_Dev\\InkBook\\InkBook\\Source\\InkBookEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

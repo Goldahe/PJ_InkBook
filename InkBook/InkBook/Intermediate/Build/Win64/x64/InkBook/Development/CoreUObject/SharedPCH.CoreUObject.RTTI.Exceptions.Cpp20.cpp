@@ -1,0 +1,2 @@
+// Compiler: 14.36.32543
+#include "D:/UE_Dev/InkBook/InkBook/Intermediate/Build/Win64/x64/InkBook/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Exceptions.Cpp20.h"

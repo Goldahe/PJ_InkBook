@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/TestLevel.umap",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/FPSGameMode.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/MyPlayerCharacter.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/_GENERATED/Srdjan/Box_1EDFF8F2.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/_GENERATED/Srdjan/Box_5ED36312.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/_GENERATED/Srdjan/Box_BEDFBC39.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/_GENERATED/Srdjan/Box_F9200A97.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/_GENERATED/Srdjan/Path_7406A3A4.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/NewMaterial.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/HandFP.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/HandsWidget.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/StepSound_Edit_1_Export_1.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/MyNPC_Chars.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/Guard_v1/MGuard_v1.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/Guard_v1/Guard_v1_0k2.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/Guard_v1/Guard_v1_0k5.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/Guard_v1/Guard_v1_1k.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/Guard_v1/Guard_v1_2k.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/NPC_BPs/Guard_v1/Guard_v1_4k.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/Levels/DevelopLevel/_GENERATED/Srdjan/Cylinder_C588EA00.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/BP_PlayerCharacter.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/BP_PlayerCharacter.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/MyPlayerCharacter.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/MyMainPlayer.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/BP_MainPawn.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/MyMainPlayer.uasset",
+				"D:/UE_Dev/InkBook/InkBook/Content/BluePrints/MainPawn/BP_MainPlayer.uasset",
+				"E:/GameDev/Unreal Projects/InkBook/InkBook/Content/Levels/DevelopLevel/TestLevel.umap",
+				"E:/GameDev/Unreal Projects/InkBook/InkBook/Content/BluePrints/MainPawn/BP_MainPlayer.uasset"
+			]
+		}
+	]
+}

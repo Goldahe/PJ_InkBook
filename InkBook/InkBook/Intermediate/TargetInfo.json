@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InkBook",
+			"Path": "..\\Source\\InkBook.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InkBookEditor",
+			"Path": "..\\Source\\InkBookEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

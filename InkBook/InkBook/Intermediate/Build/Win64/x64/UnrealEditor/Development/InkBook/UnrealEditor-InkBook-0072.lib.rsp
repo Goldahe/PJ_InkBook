@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InkBook-0072.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\InkBookEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\InkBook.init.gen.cpp.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\MainPlayer.gen.cpp.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\PlayerCharacter.gen.cpp.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\InkBook.cpp.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\MainPlayer.cpp.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\PlayerCharacter.cpp.obj"
+"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\Default.rc2.res"
+/OUT:"D:\UE_Dev\InkBook\InkBook\Intermediate\Build\Win64\x64\UnrealEditor\Development\InkBook\UnrealEditor-InkBook-0072.lib"

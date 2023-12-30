@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_dev\\inkbook\\inkbook\\intermediate\\build\\win64\\unrealgame\\inc\\inkbook\\uht\\mainplayer.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_dev\\inkbook\\inkbook\\intermediate\\build\\win64\\x64\\inkbook\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\ue_dev\\inkbook\\inkbook\\intermediate\\build\\win64\\x64\\unrealgame\\development\\inkbook\\definitions.inkbook.h",
+            "d:\\ue_dev\\inkbook\\inkbook\\source\\inkbook\\mainplayer.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "d:\\ue_dev\\ue_sdk\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "d:\\ue_dev\\inkbook\\inkbook\\intermediate\\build\\win64\\unrealgame\\inc\\inkbook\\uht\\mainplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
